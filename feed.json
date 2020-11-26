@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "BcommeBiere",
+    "description": "",
+    "home_page_url": "https://pducharne.github.io/bcommebiere",
+    "feed_url": "https://pducharne.github.io/bcommebiere/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Philippe Ducharne"
+    },
+    "items": [
+        {
+            "id": "https://pducharne.github.io/bcommebiere/jkervqbjl.html",
+            "url": "https://pducharne.github.io/bcommebiere/jkervqbjl.html",
+            "title": "jkervqbjl ",
+            "summary": "jkbe rgj",
+            "content_html": "<p>jkbe rgj</p>",
+            "author": {
+                "name": "Philippe Ducharne"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-12T22:26:45+01:00",
+            "date_modified": "2020-11-12T22:26:45+01:00"
+        },
+        {
+            "id": "https://pducharne.github.io/bcommebiere/knsqef-jb.html",
+            "url": "https://pducharne.github.io/bcommebiere/knsqef-jb.html",
+            "title": "knsqef jb",
+            "summary": "jner gjbvj",
+            "content_html": "<p>jner gjbvj</p>",
+            "author": {
+                "name": "Philippe Ducharne"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-12T22:26:37+01:00",
+            "date_modified": "2020-11-12T22:26:37+01:00"
+        }
+    ]
+}

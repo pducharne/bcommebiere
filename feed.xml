@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>BcommeBiere</title>
+    <link href="https://pducharne.github.io/bcommebiere/feed.xml" rel="self" />
+    <link href="https://pducharne.github.io/bcommebiere" />
+    <updated>2020-11-12T22:26:45+01:00</updated>
+    <author>
+        <name>Philippe Ducharne</name>
+    </author>
+    <id>https://pducharne.github.io/bcommebiere</id>
+
+    <entry>
+        <title>jkervqbjl </title>
+        <author>
+            <name>Philippe Ducharne</name>
+        </author>
+        <link href="https://pducharne.github.io/bcommebiere/jkervqbjl.html"/>
+        <id>https://pducharne.github.io/bcommebiere/jkervqbjl.html</id>
+
+        <updated>2020-11-12T22:26:45+01:00</updated>
+            <summary>
+                <![CDATA[
+                    jkbe rgj
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>jkbe rgj</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>knsqef jb</title>
+        <author>
+            <name>Philippe Ducharne</name>
+        </author>
+        <link href="https://pducharne.github.io/bcommebiere/knsqef-jb.html"/>
+        <id>https://pducharne.github.io/bcommebiere/knsqef-jb.html</id>
+
+        <updated>2020-11-12T22:26:37+01:00</updated>
+            <summary>
+                <![CDATA[
+                    jner gjbvj
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>jner gjbvj</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
